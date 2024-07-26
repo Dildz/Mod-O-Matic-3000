@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=mod-o-matic-3000.ico --windowed --name="MOD-O-MATIC-3000" mod-o-matic-3000.py
